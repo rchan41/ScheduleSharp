@@ -10,12 +10,16 @@ Schedule Sharp is a web based tool for Students to register for classes in a Hig
 
 ## Basic Registration
 
-
+![Classes](https://github.com/rchan41/ScheduleSharp/blob/master/img/registration.jpg?raw=true)
 
 ## Friend Requests
 
+![Classes](https://github.com/rchan41/ScheduleSharp/blob/master/img/friendrequest.jpg?raw=true)
+
 ## Schedule
+
+![Classes](https://github.com/rchan41/ScheduleSharp/blob/master/img/schedule.jpg?raw=true)
 
 ## Classes
 
-![Classes](https://github.com/rchan41/ScheduleSharp/blob/master/img/clsses.jpg?raw=true)
+![Classes](https://github.com/rchan41/ScheduleSharp/blob/master/img/classes.jpg?raw=true)
