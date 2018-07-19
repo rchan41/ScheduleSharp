@@ -6,10 +6,16 @@ Schedule Sharp is a web based tool for Students to register for classes in a Hig
 
 -   Students are able to send 'Friend Requests' to see the Schedule of their classmates
 -   Students can see the name of Friends registering for a particular class 
--   General Class information for all available classes.
+-   Search General Class information for all available classes.
+
+## Basic Registration
+
+
 
 ## Friend Requests
 
 ## Schedule
 
 ## Classes
+
+![Classes](https://github.com/rchan41/ScheduleSharp/blob/master/img/clsses.jpg?raw=true)
